@@ -1,0 +1,19 @@
+COVER IMAGE CREDITS
+All images in this folder are real screenshots captured by Flowerz Game Shack from the game
+pages that are actually bundled in this site. None are AI-generated, and none are copied from
+another website or publisher.
+
+- 2048, pacman, tetris, clumsy-bird, asteroids, chrome-dino, breakout, snake, space-invaders,
+  hextris, particle-clicker, chess, tower-blocks, skifree, solitaire:
+  screenshots of Flowerz's own prototype pages in /games (original Flowerz code).
+- hexgl.webp: screenshot of the locally hosted HexGL build (games/hexgl), MIT License,
+  (c) 2015 Thibaut Despoulain (BKcore). https://github.com/BKcore/HexGL
+
+Games with no entry here (Cookie Clicker, Run 3, Retro Bowl, Basketball Stars, Subway Surfers,
+Drive Mad, Stickman Hook, Moto X3M, Slope, Trigger Rally, and the three collections) use the
+purple placeholder card art, because their official art/screenshots are copyrighted and could
+not be sourced with clear reuse permission. To add one, drop a 480x293 WebP in /covers and
+set "cover":"covers/<id>.webp" on that game in index.html.
+
+- kick-the-buddy.webp: screenshot of the locally hosted Kick the Buddy build (games/kick-the-buddy),
+  by ForrestDevs. Captured by Flowerz Game Shack.
